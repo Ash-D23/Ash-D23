@@ -3,7 +3,7 @@
 ## I am a Full Stack Web Developer, Blogger and Traveller
 
 - 🔭 Check out my [Portfolio Website](https://ashutosh-kumar23.netlify.app/)
-- 🔭 Check out my Blog - [Here](https://medium.com/@ashutosh-kumar)
+- :blue_book: Check out my Blog - [Here](https://medium.com/@ashutosh-kumar)
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m currently open for a new job opportunity, [LINK TO MY RESUME]()
 - 🥅 2022 Goals: Learn more about web3
