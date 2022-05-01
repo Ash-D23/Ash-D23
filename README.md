@@ -27,5 +27,5 @@
    <a href="https://www.linkedin.com/in/ashutosh18k23/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
    <a href="https://twitter.com/Ashutosh_devtlk"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    <a href="https://www.facebook.com/ashutosh18k23"><img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook" alt="facebook" /></a>
-   <a href="https://www.facebook.com/ashutosh18k23"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium" alt="facebook" /></a>
+   <a href="https://medium.com/@ashutosh-kumar"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium" alt="facebook" /></a>
 </div>
