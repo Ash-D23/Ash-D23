@@ -5,7 +5,7 @@
 - 🔭 Check out my [Portfolio Website](https://ashutosh-kumar23.netlify.app/)
 - :blue_book: Check out my Blog - [Here](https://medium.com/@ashutosh-kumar)
 - 🌱 I’m currently learning Javascript
-- 🤔 I’m currently open for a new job opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1KtSkgt0_GN7v8daZtFRmpPiFY5M3n5F7/view?usp=sharing)
+- 🤔 I’m currently open for a new job opportunity, [LINK TO MY RESUME]([https://drive.google.com/file/d/1KtSkgt0_GN7v8daZtFRmpPiFY5M3n5F7/view?usp=sharing](https://drive.google.com/file/d/1VNtBg60OyJepDWv-IrR7kNDZWruIUZVJ/view))
 - ⚡ Hobbies: Travelling, Photgraphy and Reading Books
 
 ### Languages and Tools:
